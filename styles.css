@@ -1,0 +1,13 @@
+body {
+    background-color: darkblue;
+    color: wheat;
+    font-family: Garamond;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
